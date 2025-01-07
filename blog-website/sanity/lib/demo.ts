@@ -2,7 +2,7 @@
  * Demo data used as placeholders and initial values for the blog
  */
 
-export const title = "Food Blog";
+export const title = "Food Blogs";
 
 export const description = [
   {
@@ -13,7 +13,7 @@ export const description = [
         _key: "4a58edd077880",
         _type: "span",
         marks: [],
-        text: "Welcome to food blogs ",
+        text: "Welcome to food blogs by Amna Ali ",
       },
       // {
       //   _key: "4a58edd077881",
